@@ -116,7 +116,7 @@ OPTIONS:
 > 例子: 生成proto的模板
 
 ```shell
-goctl rpc template -o=user.proto
+goctls rpc template -o=user.proto
 ```
 
 > 生成的文件
